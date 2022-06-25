@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Time Discreteness Experiment Plots
+message: >-
+  Code used to generate the plots in
+  arXiv:2007.08431 
+type: software
+authors:
+  - given-names: Andrea
+    family-names: Di Biagio
+    email: Andrea.DiBiagio@oeaw.ac.at
+    affiliation: IQOQI Wien
+    orcid: 'https://orcid.org/0000-0001-9646-8457'
+repository-code: >-
+  https://github.com/AndreaDiBiagio/TimeDiscretenessExperimentPlots/blob/main/Simulations%20Final.ipynb
+repository: >-
+  https://github.com/AndreaDiBiagio/TimeDiscretenessExperimentPlots
+abstract: >-
+  Code used to generate the plots in
+  arXiv:2007.08431 
+keywords:
+  - simulation
+  - time discreteness
+  - plots
+  - python
+  - numpy
+  - pandas
+  - jupyter
+  - noise
+  - planck time
